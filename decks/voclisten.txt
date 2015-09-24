@@ -1,0 +1,10 @@
+Text 1	Text 2	Sound 2	Text 3	Extra Info
+hǎochī	1	a7c60f67fef15065d7b707140eb5cde6.m4a	hǎochī|▶ 好吃 bon à manger	<font size=12>好吃</font> (hǎochī)||Mots associés :|好　　 [hǎo] bien, bon|你好　 [nǐhǎo] bonjour|大家好 [dàjiā hǎo] bonjour tout l…|吃　　 [chī] manger [suivi d'un c…
+shuìjiào	1	4fd1d60d2d5db1c0609bc7a9e93d1035.m4a	shuìjiào|▶ 睡觉 dormir	<font size=12>睡觉</font> (shuìjiào)||
+dàjiā hǎo	1	2e59c480488d184a09ec286424216b9c.m4a	dàjiā hǎo|▶ 大家好 bonjour tout le monde	<font size=12>大家好</font> (dàjiā hǎo)||Mots associés :|大　 [dà] grand, (clé 37)|家　 [jiā] maison|好　 [hǎo] bien, bon|你好 [nǐhǎo] bonjour|好吃 [hǎochī] bon à manger
+nǐhǎo	1	5acb47b87916e61ec5f1d72463a22d6b.m4a	nǐhǎo|▶ 你好 bonjour	<font size=12>你好</font> (nǐhǎo)||Mots associés :|你　　 [nǐ] tu, toi|好　　 [hǎo] bien, bon|大家好 [dàjiā hǎo] bonjour tout l…|好吃　 [hǎochī] bon à manger
+xièxie	1	edfd77f9b07517c850c978976d58bf24.m4a	xièxie|▶ 谢谢 merci	<font size=12>谢谢</font> (xièxie)||
+zhōngqiūjié	1	3d3857af118e7e50e603761878b1000e.m4a	zhōngqiūjié|▶ 中秋节 fête de la lune, litt.: festival de la mi-automne	<font size=12>中秋节</font> (zhōngqiūjié)||Mots associés :|中 [zhōng] milieu|秋 [qiū] automne|节 [jié] fête (calendaire)
+bàba	1	0aacfa8e0c411bd48d26428aed422e9a.m4a	bàba|▶ 爸爸 papa	<font size=12>爸爸</font> (bàba)||
+pīnyīn	1	2bfc32c8acad96b6c5bd35f7ac39b2e3.m4a	pīnyīn|▶ 拼音 système de translittération des caractères chinois en usage en RPC	<font size=12>拼音</font> (pīnyīn)||
+yuèbǐng	1	901d28ae53c72d94dbec10f4e3f8e0e2.m4a	yuèbǐng|▶ 月饼 gâteau de lune	<font size=12>月饼</font> (yuèbǐng)||Mots associés :|月 [yuè] lune
