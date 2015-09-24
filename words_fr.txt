@@ -1,27 +1,28 @@
 不	bù|ne pas (être), non
 爸爸	bàba|papa
-吃	chī|manger
+吃	chī|manger [suivi d'un complément] & 请你吃月饼。
 大	dà|grand, (clé 37)
-大家好	dàjiā hǎo|bonjour tout le monde & bonjour
+大家好	dàjiā hǎo|bonjour tout le monde & bonjour & 大家好，我叫张美慧。
 好	hǎo|bien, bon
-好吃	hǎochī|bon à manger
+好吃	hǎochī|bon à manger & 月饼很好吃。
+很	hěn|très (sens faible, pour qualifier un attribut de façon absolue) & 月饼很好吃。
 叫	jiào(0)|crier
-叫	jiào(1)|s'appeler
+叫	jiào(1)|s'appeler & 大家好，我叫张美慧。
 家	jiā|maison
 节	jié|fête (calendaire)
 你	nǐ|tu, toi
 你好	nǐhǎo|bonjour & bonjour
 女	nǚ|femme
-拼音	pīnyīn|pinyin (système de translittération des caractères chinois en usage en RPC)
+拼音	pīnyīn|système de translittération des caractères chinois en usage en RPC
 秋	qiū|automne
-请	qǐng|veuillez, inviter, prier
+请	qǐng|veuillez, inviter, prier & 请你吃月饼。
 人	rén|une personne, (clé 9)
-睡觉	shuìjiào|dormir
-我	wǒ|je, moi
-谢谢	xièxie|merci
+睡觉	shuìjiào|dormir & 我要睡觉。
+我	wǒ|je, moi & 大家好，我叫张美慧。
+谢谢	xièxie|merci & 谢谢你！
 月	yuè|lune
-月饼	yuèbǐng|gâteau de lune
-要	yào|vouloir, devoir, [marque du futur]
+月饼	yuèbǐng|<pic-yuebing.jpg>gâteau de lune & 请你吃月饼。
+要	yào|vouloir, devoir, [marque du futur] & 我要月饼。
 中	zhōng|milieu
 中秋节	zhōngqiūjié|fête de la lune, litt.: festival de la mi-automne
-子	zǐ|fils
+子	zǐ|fils [en composition]
