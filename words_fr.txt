@@ -1,27 +1,27 @@
+不	bù|ne pas (être), non
+爸爸	bàba|papa
+吃	chī|manger
 大	dà|grand, (clé 37)
 大家好	dàjiā hǎo|bonjour tout le monde & bonjour
 好	hǎo|bien, bon & 你计算好了吗？
-家	jiā|maison
-你	nǐ|tu, toi
-你好	nǐhǎo|bonjour & bonjour
-我	wǒ|je, moi
-女	nǚ|femme
-子	zǐ|fils
-人	rén|une personne, (clé 9)
+好吃	hǎochī|bon à manger
 叫	jiào(0)|crier
 叫	jiào(1)|s'appeler
-睡觉	shuìjiào|dormir
-要	yào|vouloir, devoir, [marque du futur]
-拼音	pīnyīn|pinyin (système de translittération des caractères chinois en usage en RPC)
-爸爸	bàba|papa
-中秋节	zhōngqiūjié|fête de la lune, litt.: festival de la mi-automne
-中	zhōng|milieu
-秋	qiū|automne
+家	jiā|maison
 节	jié|fête (calendaire)
-月饼	yuèbǐng|gâteau de lune
-月	yuè|lune
+你	nǐ|tu, toi
+你好	nǐhǎo|bonjour & bonjour
+女	nǚ|femme
+拼音	pīnyīn|pinyin (système de translittération des caractères chinois en usage en RPC)
+秋	qiū|automne
 请	qǐng|veuillez, inviter, prier
-吃	chī|manger
+人	rén|une personne, (clé 9)
+睡觉	shuìjiào|dormir
+我	wǒ|je, moi
 谢谢	xièxie|merci
-好吃	hǎochī|bon à manger
-不	bù|ne pas (être), non
+月	yuè|lune
+月饼	yuèbǐng|gâteau de lune
+要	yào|vouloir, devoir, [marque du futur]
+中	zhōng|milieu
+中秋节	zhōngqiūjié|fête de la lune, litt.: festival de la mi-automne
+子	zǐ|fils
