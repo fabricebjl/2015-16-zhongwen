@@ -10,3 +10,19 @@
 人	rén|une personne, (clé 9)
 叫	jiào(0)|crier
 叫	jiào(1)|s'appeler
+睡觉	shuìjiào|dormir
+要	yào|vouloir, devoir, [marque du futur]
+拼音	pīnyīn|pinyin (système de translittération des caractères chinois en usage en RPC)
+爸爸	bàba|papa
+中秋节	zhōngqiūjié|fête de la lune, litt.: festival de la mi-automne
+中	zhōng|milieu
+秋	qiū|automne
+节	jié|fête (calendaire)
+月饼	yuèbǐng|gâteau de lune
+月	yuè|lune
+请	qǐng|veuillez, inviter, prier
+吃	chī|manger
+谢谢	xièxie|merci
+好吃	hǎochī|bon à manger
+不	bù|[prononc. avant 1er, 2e ou 3e tons] ne pas (être), non
+不	bú|[prononc. avant 4e ton] ne pas (être), non
