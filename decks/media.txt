@@ -1,3 +1,4 @@
+<pic pic-yuebing.jpg>yuebing	pic-yuebing.jpg
 <snd a7c60f67fef15065d7b707140eb5cde6.m4a>hǎochī	a7c60f67fef15065d7b707140eb5cde6.m4a		tts
 <snd 4fd1d60d2d5db1c0609bc7a9e93d1035.m4a>shuìjiào	4fd1d60d2d5db1c0609bc7a9e93d1035.m4a		tts
 <snd b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a>hǎo	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a		tts
