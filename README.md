@@ -1,8 +1,8 @@
 Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashcards Deluxe](http://flashcardsdeluxe.com).
 
-# Création des flash cards
+# 1. Création des flashcards
 
-## Méthode facile: avec Dropbox, à partir d'un backup
+## 1.1. Méthode facile: avec Dropbox, à partir d'un backup
 
 1. Télécharger [cette archive](https://dl.dropboxusercontent.com/u/3108405/chinois_L1/Flashcards%20Deluxe.zip).
 1. La décompresser.
@@ -15,9 +15,9 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
   1. Download Media: Yes
   1. Restore Flashcards
 
-## Méthode complète: à partir de rien!
+## 1.2. Méthode complète: à partir de rien!
 
-### Création du deck "media"
+### 1.2.1. Création du deck "media"
 
 1. Presser sur + (en haut à droite) pour créer un nouveau deck
 1. _Empty Deck_
@@ -32,7 +32,7 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
 1. _Append_
 1. Done
 
-### Création du premier deck
+### 1.2.2. Création du premier deck
 
 1. Presser sur + (en haut à droite) pour créer un nouveau deck
 1. _Empty Deck_
@@ -60,7 +60,7 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
 1. Auto Play Sound: On < < <
 1. Card Order: Spaced Repetition < <
 
-### Création des decks suivants
+### 1.2.3. Création des decks suivants (exemple pour `voczhfr.txt`)
 
 1. Presser sur + (en haut à droite) pour créer un nouveau deck
 1. _Empty Deck_
@@ -79,7 +79,7 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
 1. Auto Play Sound: On < < <
 1. Card Order: Spaced Repetition < <
 
-# Mise à jour d'un deck
+# 2. Mise à jour d'un deck
 
 1. _Edit_.
 1. Presser le deck souhaité.
