@@ -2,10 +2,11 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
 
 # Création des flash cards
 
-## Méthode facile: à partir d'un backup fourni par votre prof
+## Méthode facile: avec Dropbox, à partir d'un backup
 
-1. Demander le dossier _Flashcards Deluxe_ à la prof
-1. Le placer à la racine de votre dossier Dropbox
+1. Télécharger [cette archive](https://dl.dropboxusercontent.com/u/3108405/chinois_L1/Flashcards%20Deluxe.zip).
+1. La décompresser.
+1. Placer le dossier _Flashcards Deluxe_ résultant à la racine de votre dossier Dropbox.
 1. Sous l'app Flashcards Deluxe:
   1. Edit
   1. Backup / Restore
