@@ -4,3 +4,9 @@
 请你吃月饼。	Veuillez manger un gâteau de lune.
 谢谢你！	Merci à toi!
 月饼很好吃。	Les gâteaux de lune sont bons à manger.
+妈妈骑马，马慢，妈妈骂马。	Maman monte à cheval, le cheval est lent, maman insulte le cheval.
+你好吗？	Comment vas-tu? [litt. es-tu bien?]
+我很好。	Je vais bien. [litt. je suis très bien]
+你们要月饼吗？	Voulez-vous [plur.] un gâteau de lune?
+你喜欢妈妈吗？	Tu aimes [ta] maman?
+你喜欢我吗？	Tu m'aimes?
