@@ -1,20 +1,35 @@
 Text 1	Text 2	Text 3	Sound 3	Category 1
-不|bù|	不|ne pas (être), non	bù|▶ 不 [bù] ne pas (être), non	b2f7d59de8478eb3554beccc8f2d3f81.m4a	1
-人|rén|	人|une personne, (clé 9)	rén|▶ 人 [rén] une personne, (clé 9)	9ed510416a5d2db2c34048455ac162f8.m4a	2
-我|wǒ|	我|je, moi	wǒ|▶ 我 [wǒ] je, moi	21082882c82638d29ea11052d4b709fa.m4a	3
-中|zhōng|	中|milieu	zhōng|▶ 中 [zhōng] milieu	0ac2a0b82d5088bfd5e979098d142ecc.m4a	4
-大|dà|	大|grand, (clé 37)	dà|▶ 大 [dà] grand, (clé 37)	fa83b69820de4051929f48017f25274b.m4a	5
-要|yào|	要|vouloir, devoir, [marque du futur]	yào|▶ 要 [yào] vouloir, devoir, [marque du futur]	7214a85f7df1efa62b7e712f7b814a22.m4a	6
-子|zǐ|	子|fils [en composition]	zǐ|▶ 子 [zǐ] fils [en composition]	2cc28932743d7e70fca1cf530dac34c0.m4a	7
-家|jiā|	家|maison	jiā|▶ 家 [jiā] maison	fd70348f5363ee5bb722bb501855e2e4.m4a	8
-你|nǐ|	你|tu, toi	nǐ|▶ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	9
-好|hǎo|	好|bien, bon	hǎo|▶ 好 [hǎo] bien, bon	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	10
-月|yuè|	月|lune	yuè|▶ 月 [yuè] lune	b85ecf97ffae7a75e1e7a954ac6bb0cd.m4a	11
-很|hěn|	很|très (sens faible, pour qualifier un attribut de façon absolue)	hěn|▶ 很 [hěn] très (sens faible, pour qualifier un attribut de façon absolue)	96f6c836a23ed80e5e7e7774f31a4394.m4a	12
-女|nǚ|	女|femme	nǚ|▶ 女 [nǚ] femme	d6e7e749f09bfe71cfbaf98a2f343a11.m4a	13
-请|qǐng|	请|veuillez, inviter, prier	qǐng|▶ 请 [qǐng] veuillez, inviter, prier	156d855d46d259b07b27e2ede2955c82.m4a	14
-吃|chī|	吃|manger [suivi d'un complément]	chī|▶ 吃 [chī] manger [suivi d'un complément]	2d570a4af5bd770844440b958f3e6905.m4a	15
-叫|jiào|	叫|crier	jiào|▶ 叫 [jiào] crier	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	16
-叫|jiào|	叫|s'appeler	jiào|▶ 叫 [jiào] crier	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	17
-节|jié|	节|fête (calendaire)	jié|▶ 节 [jié] fête (calendaire)	2d78f50331417b4daca11cc92858a79f.m4a	18
-秋|qiū|	秋|automne	qiū|▶ 秋 [qiū] automne	62537f15671695dd1047d37ae6a69b5b.m4a	19
+一|yī|	一|un, (clé 1)	yī|▶ 一 [yī] un, (clé 1)	6c36e38fb01552b98be84e8dc491555d.m4a	1
+不|bù|	不|ne pas (être), non	bù|▶ 不 [bù] ne pas (être), non	b2f7d59de8478eb3554beccc8f2d3f81.m4a	2
+人|rén|	人|une personne, (clé 9)	rén|▶ 人 [rén] une personne, (clé 9)	9ed510416a5d2db2c34048455ac162f8.m4a	3
+我|wǒ|	我|je, moi	wǒ|▶ 我 [wǒ] je, moi	21082882c82638d29ea11052d4b709fa.m4a	4
+中|zhōng|	中|milieu	zhōng|▶ 中 [zhōng] milieu	0ac2a0b82d5088bfd5e979098d142ecc.m4a	5
+大|dà|	大|grand, (clé 37)	dà|▶ 大 [dà] grand, (clé 37)	fa83b69820de4051929f48017f25274b.m4a	6
+们|men|	们|[suffixé à certains mots, notamment pronoms personnels, pour former le pluriel]	men|▶ 们 [men] [suffixé à certains mots, notamment pronoms personnels, pour former le pluriel]	d2fc17cc2feffa1de5217a3fd29e91e8.m4a	7
+要|yào|	要|vouloir, devoir, [marque du futur]	yào|▶ 要 [yào] vouloir, devoir, [marque du futur]	7214a85f7df1efa62b7e712f7b814a22.m4a	8
+子|zǐ|	子|fils [en composition]	zǐ|▶ 子 [zǐ] fils [en composition]	2cc28932743d7e70fca1cf530dac34c0.m4a	9
+家|jiā|	家|maison	jiā|▶ 家 [jiā] maison	fd70348f5363ee5bb722bb501855e2e4.m4a	10
+你|nǐ|	你|tu, toi	nǐ|▶ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	11
+好|hǎo|	好|bien, bon	hǎo|▶ 好 [hǎo] bien, bon	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	12
+月|yuè|	月|lune	yuè|▶ 月 [yuè] lune	b85ecf97ffae7a75e1e7a954ac6bb0cd.m4a	13
+三|sān|	三|	sān|▶ 三 [sān] 	03c1e916c7d1f386f25b7fb74ceeee23.m4a	14
+二|èr|	二|deux ordinal (clé 7)	èr|▶ 二 [èr] deux ordinal (clé 7)	78cf3bf5a3b50626da14bd52e07b8c5d.m4a	15
+四|sì|	四|	sì|▶ 四 [sì] 	62d08c707c0569f0482567ffb96a57e5.m4a	16
+很|hěn|	很|très (sens faible, pour qualifier un attribut de façon absolue)	hěn|▶ 很 [hěn] très (sens faible, pour qualifier un attribut de façon absolue)	96f6c836a23ed80e5e7e7774f31a4394.m4a	17
+五|wǔ|	五|	wǔ|▶ 五 [wǔ] 	9ac619487a2e0f2b7739ef9e632a3e5a.m4a	18
+第|dì|	第|[préfixe ordinal]	dì|▶ 第 [dì] [préfixe ordinal]	6706747ba5162fe7b9f347434e2b539c.m4a	19
+女|nǚ|	女|femme	nǚ|▶ 女 [nǚ] femme	d6e7e749f09bfe71cfbaf98a2f343a11.m4a	20
+请|qǐng|	请|veuillez, inviter, prier	qǐng|▶ 请 [qǐng] veuillez, inviter, prier	156d855d46d259b07b27e2ede2955c82.m4a	21
+王|wáng|	王|roi, [patronyme, le 2e plus fréquent en Chine]	wáng|▶ 王 [wáng] roi, [patronyme, le 2e plus fréquent en Chine]	5bfaeb8d055b3ebe4b12e482efcf32a4.m4a	22
+吃|chī|	吃|manger [suivi d'un complément]	chī|▶ 吃 [chī] manger [suivi d'un complément]	2d570a4af5bd770844440b958f3e6905.m4a	23
+马|mǎ|	马|cheval	mǎ|<color gray>▶ 吗 [ma] [particule finale interrogative]</color>|<color gray>▶ 妈 [mā] mère</color>|▶ 马 [mǎ] cheval|<color gray>▶ 骂 [mà] insulter</color>	fd027368b966bab4263f367762d20cb8.m4a	24
+李|lǐ|	李|[patronyme, le 4e plus fréquent en Chine]	lǐ|▶ 李 [lǐ] [patronyme, le 4e plus fréquent en Chine]	4178d476cf67f204b9c7ed0aa9697179.m4a	25
+叫|jiào|	叫|crier	jiào|▶ 叫 [jiào] crier	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	26
+叫|jiào|	叫|s'appeler	jiào|▶ 叫 [jiào] crier	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	27
+吗|ma|	吗|[particule finale interrogative]	ma|▶ 吗 [ma] [particule finale interrogative]|<color gray>▶ 妈 [mā] mère</color>|<color gray>▶ 马 [mǎ] cheval</color>|<color gray>▶ 骂 [mà] insulter</color>	b74df323e3939b563635a2cba7a7afba.m4a	28
+节|jié|	节|fête (calendaire)	jié|▶ 节 [jié] fête (calendaire)	2d78f50331417b4daca11cc92858a79f.m4a	29
+妈|mā|groupe	妈|mère	mā|<color gray>▶ 吗 [ma] [particule finale interrogative]</color>|▶ 妈 [mā] mère|<color gray>▶ 马 [mǎ] cheval</color>|<color gray>▶ 骂 [mà] insulter</color>	ca189c258ed350f3f17f32abd0a41c17.m4a	30
+课|kè|	课|cours, leçon	kè|▶ 课 [kè] cours, leçon	b5c7a50fb9a7e1f6862d56935b5fbaa0.m4a	31
+慢|màn|	慢|lent	màn|▶ 慢 [màn] lent	a8a3ebe26bfa9e836d64ea47ae2bd844.m4a	32
+秋|qiū|	秋|automne	qiū|▶ 秋 [qiū] automne	62537f15671695dd1047d37ae6a69b5b.m4a	33
+骂|mà|	骂|insulter	mà|<color gray>▶ 吗 [ma] [particule finale interrogative]</color>|<color gray>▶ 妈 [mā] mère</color>|<color gray>▶ 马 [mǎ] cheval</color>|▶ 骂 [mà] insulter	9aa531470fce6903a6c6f4a3751c6205.m4a	34
