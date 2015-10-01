@@ -3,14 +3,14 @@
 吃	chī|manger [suivi d'un complément] & 请你吃月饼。
 大	dà|grand, (clé 37)
 大家好	dàjiā hǎo|bonjour tout le monde & bonjour & 大家好，我叫张美慧。
-好	hǎo|bien, bon
+好	hǎo|bien, bon & 我很好。
 好吃	hǎochī|bon à manger & 月饼很好吃。
 很	hěn|très (sens faible, pour qualifier un attribut de façon absolue) & 月饼很好吃。
 叫	jiào(0)|crier
 叫	jiào(1)|s'appeler & 大家好，我叫张美慧。
 家	jiā|maison
 节	jié|fête (calendaire)
-你	nǐ|tu, toi
+你	nǐ|tu, toi & pronom personnel 2e personne
 你好	nǐhǎo|bonjour & bonjour
 女	nǚ|femme
 拼音	pīnyīn|système de translittération des caractères chinois en usage en République populaire de Chine
@@ -18,7 +18,7 @@
 请	qǐng|veuillez, inviter, prier & 请你吃月饼。
 人	rén|une personne, (clé 9)
 睡觉	shuìjiào|dormir & 我要睡觉。
-我	wǒ|je, moi & 大家好，我叫张美慧。
+我	wǒ|je, moi & pronom personnel 1ère personne & 大家好，我叫张美慧。
 谢谢	xièxie|merci & 谢谢你！
 月	yuè|lune
 月饼	yuèbǐng|<pic-yuebing.jpg>gâteau de lune & 请你吃月饼。
@@ -26,18 +26,18 @@
 中	zhōng|milieu
 中秋节	zhōngqiūjié|fête de la lune, litt.: festival de la mi-automne
 子	zǐ|fils [en composition]
-妈	mā|mère & groupe
-妈妈	māma	|maman & groupe & 妈妈骑马，马慢，妈妈骂马。
+妈	mā|mère & mère
+妈妈	māma	|maman & mère & 妈妈骑马，马慢，妈妈骂马。
 马	mǎ|cheval & 妈妈骑马，马慢，妈妈骂马。
-骂	mà|insulter & 妈妈骑马，马慢，妈妈骂马。
+骂	mà|insulter & insulter & 妈妈骑马，马慢，妈妈骂马。
 吗	ma|[particule finale interrogative] & 你喜欢妈妈吗？
-骂人	màrén|insulter les gens
+骂人	màrén|insulter les gens & insulter
 慢	màn|lent & 妈妈骑马，马慢，妈妈骂马。
-哥哥	gēge|grand frère
-我们	wǒmen|nous
-你们	nǐmen|vous [pluriel] & 你们要月饼吗？
+哥哥	gēge|grand frère & frère
+我们	wǒmen|nous & pronom personnel 1ère personne
+你们	nǐmen|vous [pluriel] & pronom personnel 2e personne & 你们要月饼吗？
 们	men|[suffixé à certains mots, notamment pronoms personnels, pour former le pluriel] & 你们要月饼吗？
-弟弟	dìdi|petit frère
+弟弟	dìdi|petit frère & frère
 喜欢	xǐhuān|aimer & 你喜欢妈妈吗？
 数字	shùzì|nombre
 一	yī|<pic-hand1.jpg>un, (clé 1)
@@ -46,9 +46,9 @@
 四	sì|<pic-hand4.jpg>
 五	wǔ|<pic-hand5.jpg>
 先生	xiānsheng|monsieur
-王	Wáng|roi, [patronyme, le 2e plus fréquent en Chine]
-李	Lǐ|[patronyme, le 4e plus fréquent en Chine]
-第一	dìyī|premier
+王	Wáng|roi, [patronyme, le 2e plus fréquent en Chine] & [patronyme]
+李	Lǐ|[patronyme, le 4e plus fréquent en Chine] & [patronyme]
+第一	dìyī|premier & [nombre ordinal]
 课	kè|cours, leçon
-第二	dìèr|deuxième
-第	dì|[préfixe ordinal]
+第二	dìèr|deuxième & [nombre ordinal]
+第	dì|[préfixe ordinal] & [nombre ordinal]
