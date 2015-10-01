@@ -11,7 +11,7 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
   1. Edit
   1. Backup / Restore
   1. Restore
-  1. 2015-09-30 19:14
+  1. `archive initiale.sql`
   1. Download Media: Yes
   1. Restore Flashcards
 
