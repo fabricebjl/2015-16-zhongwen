@@ -2,7 +2,7 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
 
 # 1. Création des flashcards
 
-## 1.1. Méthode facile: avec Dropbox, à partir d'un backup
+## 1.1. Méthode facile: avec Dropbox
 
 1. Télécharger [cette archive](https://dl.dropboxusercontent.com/u/3108405/chinois_L1/Flashcards%20Deluxe.zip).
 1. La décompresser.
@@ -15,7 +15,7 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
   1. Download Media: Yes
   1. Restore Flashcards
 
-## 1.2. Méthode complète: à partir de rien!
+## 1.2. Méthode complète: à partir de rien
 
 ### 1.2.1. Création du deck "media"
 
