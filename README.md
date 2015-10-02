@@ -14,6 +14,10 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
   1. `archive initiale.sql`
   1. Download Media: Yes
   1. Restore Flashcards
+  1. [Facultatif]
+    1. Appuyez sur ⚙ pour accéder aux réglages globaux
+    1. View
+    1. Picture Above Text: on
 
 ## 1.2. Méthode complète: à partir de rien
 
@@ -44,7 +48,7 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
 1. _Download / Update_
 1. _Append_
 1. Vocabulaire fr -> zh
-1. Appuyer sur le rouage pour accéder aux options du Deck
+1. Appuyer sur ⚙ pour accéder aux options du Deck
 1. Show Advanced Menu
 1. Card Layout
 1. Sélectionner Custom 4
@@ -72,7 +76,7 @@ Mode d'emploi pour créer et mettre à jour des decks de flashcards sous [Flashc
 1. _Download / Update_
 1. _Append_
 1. Vocabulaire zh -> fr
-1. Appuyer sur le rouage pour accéder aux options du Deck
+1. Appuyer sur ⚙ pour accéder aux options du Deck
 1. Show Advanced Menu
 1. Card Layout: First Side Identifier <
 1. Sound
