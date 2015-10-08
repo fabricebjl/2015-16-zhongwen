@@ -3,7 +3,7 @@
 吃	chī|manger [suivi d'un complément] & 请你吃月饼。
 大	dà|grand, (clé 37)
 大家好	dàjiā hǎo|bonjour tout le monde & bonjour & 大家好，我叫张美慧。
-好	hǎo|bien, bon & 我很好。
+好	hǎo|(être) bien, bon & 我很好。
 好吃	hǎochī|bon à manger & 月饼很好吃。
 很	hěn|très (sens faible, pour qualifier un attribut de façon absolue) & 月饼很好吃。
 叫	jiào(0)|crier
@@ -46,9 +46,9 @@
 四	sì|<pic-hand4.jpg>
 五	wǔ|<pic-hand5.jpg>
 七	qī|<pic-hand7.jpg>
-先生	xiānsheng|monsieur
-王	Wáng|roi, [patronyme, le 2e plus fréquent en Chine] & [patronyme]
-李	Lǐ|[patronyme, le 4e plus fréquent en Chine] & [patronyme]
+先生	xiānsheng|monsieur & 王先生
+王	Wáng|roi, [patronyme, le 2e plus fréquent en Chine] & [patronyme] & 王先生
+李	Lǐ|[patronyme, le 4e plus fréquent en Chine] & [patronyme] & 李女士
 第一	dìyī|premier & [nombre ordinal]
 课	kè|cours, leçon
 第二	dìèr|deuxième & [nombre ordinal]
@@ -72,3 +72,8 @@
 十	shí|<pic-hand10.jpg>(clé 24) & 十月八日
 日	rì|soleil, jour, (clé 72) & 十月八日
 十月	shíyuè|octobre & 十月八日
+九	jiǔ|<pic-hand9.jpg>
+酒	jiǔ|alcool
+女士	nǚshì|madame & 李女士
+呢	ne|dis-moi, particule d'interrogation, non accompli ou rhétorique & 我很好，你呢？
+妈的	māde|merde!
