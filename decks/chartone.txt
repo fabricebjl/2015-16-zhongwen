@@ -6,30 +6,46 @@ Text 1	Text 2	Text 3	Sound 3	Category 1
 中|zhōng|	中|milieu	zhōng|▸ 中 [zhōng] milieu	0ac2a0b82d5088bfd5e979098d142ecc.m4a	5
 大|dà|	大|grand, (clé 37)	dà|▸ 大 [dà] grand, (clé 37)	fa83b69820de4051929f48017f25274b.m4a	6
 们|men|	们|[suffixé à certains mots, notamment pronoms personnels, pour former le pluriel]	men|▸ 们 [men] [suffixé à certains mots, notamment pronoms personnels, pour former le pluriel]	d2fc17cc2feffa1de5217a3fd29e91e8.m4a	7
-要|yào|	要|vouloir, devoir, [marque du futur]	yào|▸ 要 [yào] vouloir, devoir, [marque du futur]	7214a85f7df1efa62b7e712f7b814a22.m4a	8
-子|zǐ|	子|fils [en composition]	zǐ|▸ 子 [zǐ] fils [en composition]	2cc28932743d7e70fca1cf530dac34c0.m4a	9
-家|jiā|	家|maison	jiā|▸ 家 [jiā] maison	fd70348f5363ee5bb722bb501855e2e4.m4a	10
-你|nǐ|pronom personnel 2e personne	你|tu, toi	nǐ|▸ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	11
-好|hǎo|	好|bien, bon	hǎo|▸ 好 [hǎo] bien, bon	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	12
-月|yuè|	月|lune	yuè|▸ 月 [yuè] lune	b85ecf97ffae7a75e1e7a954ac6bb0cd.m4a	13
-三|sān|	三|	sān|▸ 三 [sān] 	03c1e916c7d1f386f25b7fb74ceeee23.m4a	14
-二|èr|	二|deux ordinal (clé 7)	èr|▸ 二 [èr] deux ordinal (clé 7)	78cf3bf5a3b50626da14bd52e07b8c5d.m4a	15
-四|sì|	四|	sì|▸ 四 [sì] 	62d08c707c0569f0482567ffb96a57e5.m4a	16
-很|hěn|	很|très (sens faible, pour qualifier un attribut de façon absolue)	hěn|▸ 很 [hěn] très (sens faible, pour qualifier un attribut de façon absolue)	96f6c836a23ed80e5e7e7774f31a4394.m4a	17
-五|wǔ|	五|	wǔ|▸ 五 [wǔ] 	9ac619487a2e0f2b7739ef9e632a3e5a.m4a	18
-第|dì|[nombre ordinal]	第|[préfixe ordinal]	dì|▸ 第 [dì] [préfixe ordinal]	6706747ba5162fe7b9f347434e2b539c.m4a	19
-女|nǚ|	女|femme	nǚ|▸ 女 [nǚ] femme	d6e7e749f09bfe71cfbaf98a2f343a11.m4a	20
-请|qǐng|	请|veuillez, inviter, prier	qǐng|▸ 请 [qǐng] veuillez, inviter, prier	156d855d46d259b07b27e2ede2955c82.m4a	21
-王|wáng|[patronyme]	王|roi, [patronyme, le 2e plus fréquent en Chine]	wáng|▸ 王 [wáng] roi, [patronyme, le 2e plus fréquent en Chine]	5bfaeb8d055b3ebe4b12e482efcf32a4.m4a	22
-吃|chī|	吃|manger [suivi d'un complément]	chī|▸ 吃 [chī] manger [suivi d'un complément]	2d570a4af5bd770844440b958f3e6905.m4a	23
-马|mǎ|	马|cheval	mǎ|<color gray>▸ 吗 [ma] [particule finale interrogative]</color>|<color gray>▸ 妈 [mā] mère</color>|▸ 马 [mǎ] cheval|<color gray>▸ 骂 [mà] insulter</color>	fd027368b966bab4263f367762d20cb8.m4a	24
-李|lǐ|[patronyme]	李|[patronyme, le 4e plus fréquent en Chine]	lǐ|▸ 李 [lǐ] [patronyme, le 4e plus fréquent en Chine]	4178d476cf67f204b9c7ed0aa9697179.m4a	25
-叫|jiào|	叫|crier	jiào|▸ 叫 [jiào] crier	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	26
-叫|jiào|	叫|s'appeler	jiào|▸ 叫 [jiào] crier	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	27
-吗|ma|	吗|[particule finale interrogative]	ma|▸ 吗 [ma] [particule finale interrogative]|<color gray>▸ 妈 [mā] mère</color>|<color gray>▸ 马 [mǎ] cheval</color>|<color gray>▸ 骂 [mà] insulter</color>	b74df323e3939b563635a2cba7a7afba.m4a	28
-节|jié|	节|fête (calendaire)	jié|▸ 节 [jié] fête (calendaire)	2d78f50331417b4daca11cc92858a79f.m4a	29
-妈|mā|mère	妈|mère	mā|<color gray>▸ 吗 [ma] [particule finale interrogative]</color>|▸ 妈 [mā] mère|<color gray>▸ 马 [mǎ] cheval</color>|<color gray>▸ 骂 [mà] insulter</color>	ca189c258ed350f3f17f32abd0a41c17.m4a	30
-课|kè|	课|cours, leçon	kè|▸ 课 [kè] cours, leçon	b5c7a50fb9a7e1f6862d56935b5fbaa0.m4a	31
-慢|màn|	慢|lent	màn|▸ 慢 [màn] lent	a8a3ebe26bfa9e836d64ea47ae2bd844.m4a	32
-秋|qiū|	秋|automne	qiū|▸ 秋 [qiū] automne	62537f15671695dd1047d37ae6a69b5b.m4a	33
-骂|mà|insulter	骂|insulter	mà|<color gray>▸ 吗 [ma] [particule finale interrogative]</color>|<color gray>▸ 妈 [mā] mère</color>|<color gray>▸ 马 [mǎ] cheval</color>|▸ 骂 [mà] insulter	9aa531470fce6903a6c6f4a3751c6205.m4a	34
+会|huì|	会|pouvoir, savoir	huì|▸ 会 [huì] pouvoir, savoir	7e11029be816a0c471523b60c0a9e4f7.m4a	8
+要|yào|	要|vouloir, devoir, [marque du futur]	yào|▸ 要 [yào] vouloir, devoir, [marque du futur]	7214a85f7df1efa62b7e712f7b814a22.m4a	9
+子|zǐ|	子|fils [en composition]	zǐ|▸ 子 [zǐ] fils [en composition]	2cc28932743d7e70fca1cf530dac34c0.m4a	10
+家|jiā|	家|maison	jiā|▸ 家 [jiā] maison	fd70348f5363ee5bb722bb501855e2e4.m4a	11
+十|shí|	十|(clé 24)	shí|▸ 十 [shí] (clé 24)	9fc4642cde210842bd0f308e24448775.m4a	12
+日|rì|	日|soleil, jour, (clé 72)	rì|▸ 日 [rì] soleil, jour, (clé 72)	54b879399b3348ff06c1ed4f87a93b5e.m4a	13
+去|qù|	去|aller (mouvement)	qù|▸ 去 [qù] aller (mouvement)	73b415b5ddd53a24a5e553bb45c8e97e.m4a	14
+小|xiǎo|	小|petit	xiǎo|▸ 小 [xiǎo] petit	b1dfeb0f449c5e7be40ff4c7aaffd997.m4a	15
+你|nǐ|pronom personnel 2e personne	你|tu, toi	nǐ|▸ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	16
+好|hǎo|	好|bien, bon	hǎo|▸ 好 [hǎo] bien, bon	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	17
+月|yuè|	月|lune	yuè|▸ 月 [yuè] lune	b85ecf97ffae7a75e1e7a954ac6bb0cd.m4a	18
+三|sān|	三|	sān|▸ 三 [sān] 	03c1e916c7d1f386f25b7fb74ceeee23.m4a	19
+二|èr|	二|deux ordinal (clé 7)	èr|▸ 二 [èr] deux ordinal (clé 7)	78cf3bf5a3b50626da14bd52e07b8c5d.m4a	20
+四|sì|	四|	sì|▸ 四 [sì] 	62d08c707c0569f0482567ffb96a57e5.m4a	21
+很|hěn|	很|très (sens faible, pour qualifier un attribut de façon absolue)	hěn|▸ 很 [hěn] très (sens faible, pour qualifier un attribut de façon absolue)	96f6c836a23ed80e5e7e7774f31a4394.m4a	22
+五|wǔ|	五|	wǔ|▸ 五 [wǔ] 	9ac619487a2e0f2b7739ef9e632a3e5a.m4a	23
+第|dì|[nombre ordinal]	第|[préfixe ordinal]	dì|▸ 第 [dì] [préfixe ordinal]	6706747ba5162fe7b9f347434e2b539c.m4a	24
+次|cì|	次|(une) fois	cì|▸ 次 [cì] (une) fois	e6c4ffbfd6bf589f321b7e05f84c6032.m4a	25
+西|xī|	西|ouest	xī|▸ 西 [xī] ouest	fd2fd60c82b32946cd132fb73ef663f8.m4a	26
+女|nǚ|	女|femme	nǚ|▸ 女 [nǚ] femme	d6e7e749f09bfe71cfbaf98a2f343a11.m4a	27
+六|liù|	六|	liù|▸ 六 [liù] 	080327981402a9c39ba4f1f86227374b.m4a	28
+八|bā|	八|(clé 12)	bā|▸ 八 [bā] (clé 12)	3b52cd47c585461ebdd3d42342fcd88d.m4a	29
+请|qǐng|	请|veuillez, inviter, prier	qǐng|▸ 请 [qǐng] veuillez, inviter, prier	156d855d46d259b07b27e2ede2955c82.m4a	30
+王|wáng|[patronyme]	王|roi, [patronyme, le 2e plus fréquent en Chine]	wáng|▸ 王 [wáng] roi, [patronyme, le 2e plus fréquent en Chine]	5bfaeb8d055b3ebe4b12e482efcf32a4.m4a	31
+七|qī|	七|	qī|▸ 七 [qī] 	b39037925ecff0181d5360e1583f745b.m4a	32
+爱|aì|aimer	爱|aimer (d'amour) (angl. love)	aì|▸ 爱 [aì] aimer (d'amour) (angl. love)	65b89875adcf5291330ae5772ced6a52.m4a	33
+吃|chī|	吃|manger [suivi d'un complément]	chī|▸ 吃 [chī] manger [suivi d'un complément]	2d570a4af5bd770844440b958f3e6905.m4a	34
+马|mǎ|	马|cheval	mǎ|<color gray>▸ 吗 [ma] [particule finale interrogative]</color>|<color gray>▸ 妈 [mā] mère</color>|▸ 马 [mǎ] cheval|<color gray>▸ 骂 [mà] insulter</color>	fd027368b966bab4263f367762d20cb8.m4a	35
+李|lǐ|[patronyme]	李|[patronyme, le 4e plus fréquent en Chine]	lǐ|▸ 李 [lǐ] [patronyme, le 4e plus fréquent en Chine]	4178d476cf67f204b9c7ed0aa9697179.m4a	36
+叫|jiào|	叫|crier	jiào|▸ 叫 [jiào] crier	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	37
+叫|jiào|	叫|s'appeler	jiào|▸ 叫 [jiào] crier	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	38
+早|zǎo|	早|tôt	zǎo|▸ 早 [zǎo] tôt	35f625dc8c2e2f2e6f7ac0a0823c8914.m4a	39
+吗|ma|	吗|[particule finale interrogative]	ma|▸ 吗 [ma] [particule finale interrogative]|<color gray>▸ 妈 [mā] mère</color>|<color gray>▸ 马 [mǎ] cheval</color>|<color gray>▸ 骂 [mà] insulter</color>	b74df323e3939b563635a2cba7a7afba.m4a	40
+火|huǒ|	火|feu, (clé 86)	huǒ|▸ 火 [huǒ] feu, (clé 86)	c391a9ac27b18cc325eaa64abae63186.m4a	41
+节|jié|	节|fête (calendaire)	jié|▸ 节 [jié] fête (calendaire)	2d78f50331417b4daca11cc92858a79f.m4a	42
+妈|mā|mère	妈|mère	mā|<color gray>▸ 吗 [ma] [particule finale interrogative]</color>|▸ 妈 [mā] mère|<color gray>▸ 马 [mǎ] cheval</color>|<color gray>▸ 骂 [mà] insulter</color>	ca189c258ed350f3f17f32abd0a41c17.m4a	43
+课|kè|	课|cours, leçon	kè|▸ 课 [kè] cours, leçon	b5c7a50fb9a7e1f6862d56935b5fbaa0.m4a	44
+鱼|yú|	鱼|poisson	yú|▸ 鱼 [yú] poisson	3c1a51ae3914e799573a222656092adb.m4a	45
+慢|màn|	慢|lent	màn|▸ 慢 [màn] lent	a8a3ebe26bfa9e836d64ea47ae2bd844.m4a	46
+鸡|jī|	鸡|poulet	jī|▸ 鸡 [jī] poulet	eb3847a085c41f8c8f4955b3d0ac7cdd.m4a	47
+秋|qiū|	秋|automne	qiū|▸ 秋 [qiū] automne	62537f15671695dd1047d37ae6a69b5b.m4a	48
+酷|kù|	酷|cool (transcription)	kù|▸ 酷 [kù] cool (transcription)	1ffcbef7cd763b310e2904f567ac14eb.m4a	49
+骂|mà|insulter	骂|insulter	mà|<color gray>▸ 吗 [ma] [particule finale interrogative]</color>|<color gray>▸ 妈 [mā] mère</color>|<color gray>▸ 马 [mǎ] cheval</color>|▸ 骂 [mà] insulter	9aa531470fce6903a6c6f4a3751c6205.m4a	50
