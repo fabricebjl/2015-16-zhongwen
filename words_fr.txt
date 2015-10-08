@@ -38,13 +38,14 @@
 你们	nǐmen|vous [pluriel] & pronom personnel 2e personne & 你们要月饼吗？
 们	men|[suffixé à certains mots, notamment pronoms personnels, pour former le pluriel] & 你们要月饼吗？
 弟弟	dìdi|petit frère & frère
-喜欢	xǐhuan|aimer & 你喜欢妈妈吗？
+喜欢	xǐhuan|aimer (angl. like) & aimer & 你喜欢妈妈吗？
 数字	shùzì|nombre
 一	yī|<pic-hand1.jpg>un, (clé 1)
 二	èr|<pic-hand2.jpg>deux ordinal (clé 7)
 三	sān|<pic-hand3.jpg>
 四	sì|<pic-hand4.jpg>
 五	wǔ|<pic-hand5.jpg>
+七	qī|<pic-hand7.jpg>
 先生	xiānsheng|monsieur
 王	Wáng|roi, [patronyme, le 2e plus fréquent en Chine] & [patronyme]
 李	Lǐ|[patronyme, le 4e plus fréquent en Chine] & [patronyme]
@@ -52,3 +53,18 @@
 课	kè|cours, leçon
 第二	dìèr|deuxième & [nombre ordinal]
 第	dì|[préfixe ordinal] & [nombre ordinal]
+酷	kù|cool (transcription)
+哈哈	hāhā|ha! ha!
+火	huǒ|feu, (clé 86)
+小	xiǎo|petit
+鸡	jī|poulet
+小鸡	xiǎojī|poussin, (litt. petit poulet)
+西	xī|ouest
+次	cì|(une) fois
+爱	aì|aimer (d'amour) (angl. love) & aimer & 我爱你。
+会	huì|pouvoir, savoir
+早	zǎo|tôt
+早上	zǎoshang|(début de) matinée & 早上好！
+六	liù|<pic-hand6.jpg>
+去	qù|aller (mouvement)
+鱼	yú|poisson
