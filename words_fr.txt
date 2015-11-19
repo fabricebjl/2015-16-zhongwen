@@ -77,3 +77,52 @@
 女士	nǚshì|madame & 李女士
 呢	ne|dis-moi, particule d'interrogation, non accompli ou rhétorique & 我很好，你呢？
 妈的	māde|merde!
+他	tā|il
+她	tā|elle
+也	yě|aussi
+对	duì|correct
+您	nín|vous
+法国人	fǎ guó rén|francais nationalité
+法国	fǎ guó|france, pays
+法语	fà yǔ|francais(la langue)
+吃	chī|manger
+山	shān|montagne
+中国	zhōng guò|milieu pays, chine
+重	zhòng|lourd
+也	yě|aussi
+对	duì|correct
+吃不吃	chī bù chī|tu manges ou pas	
+喝	hē|boire
+也不好吃	yě bù hǎo chī|c'est pas bon à manger non plus
+要不要	yào bù yào|tu veux ou pas
+疼	téng|douleur
+手	shǒu|la main
+腿	tuǐ|les jambes
+火腿	huǒ tuǐ|jambon
+头	tóu|tête
+都	dōu|tous
+请	qǐng|SVP, invitez
+坐	zuò|s'asseoir
+咖啡	kāfēi|café
+那么	nàme|donc, dans ce cas
+行不行	xīng bù xīng|ça te vas
+行	xīng|ok, ça me va
+中国茶	zhōngguó chá|thé chinois	
+对不起	duì bù qí|excuse moi
+没关系	méi guān xì|c'est pas grave
+再见	zài jiàn|aurevoir
+是	shì|être(verbe)
+老	lǎo|vieux
+老师	lǎo shī|prof
+学生	xué shēng|étudiant
+得国	dé guó|l'allemagne
+学	xué|apprendre
+大学	dà xué|université
+小	xiào|petit
+没有	méi yǒu|ne pas avoir
+来	lái|venir
+什麼	shén me|quoi
+名字	míng zì|nom
+贵	guì|cher
+很贵	hěn guì|très cher
+岁	suì|âge
